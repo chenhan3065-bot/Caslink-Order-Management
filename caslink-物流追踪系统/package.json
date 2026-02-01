@@ -4,13 +4,9 @@
   "name": "your-project-name",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
+    "scripts": {
     "dev": "next dev",
     "start": "next start",
-    "build": "react-scripts build", // <-- 粘贴到此处
-    "eject": "react-scripts eject"  // <-- 粘贴到此处
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
-  "dependencies": {
-    // ... 其他依赖项 ...
-  }
-}
